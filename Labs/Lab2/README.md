@@ -1,6 +1,7 @@
-# Lab 2: Git Practice A practical exercise in version control and branching strategies.
+# Lab 2: Git Practice 
+An exercise in version control and branching strategies.
 
-## What I learned
+##🧠 What I learned
 * How to setup a Python environment for Machine Learning.
 * Verifying installation of key libraries like Pandas and Scikit-Learn.
 * Learning to run a basic Jupyter Notebook testing the system.
